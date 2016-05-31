@@ -1,6 +1,6 @@
 {
   "name": "ng2-imageupload",
-  "version": "1.1.1",
+  "version": "1.1.1-0",
   "description": "A component which resizes the selected input file image",
   "main": "index.js",
   "scripts": {
@@ -17,14 +17,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ribizli/ng2-imageupload.git"
+    "url": "git+https://github.com/ncfx/ng2-imageupload.git"
   },
   "author": "ribizli@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ribizli/ng2-imageupload/issues"
+    "url": "https://github.com/ncfx/ng2-imageupload/issues"
   },
-  "homepage": "https://github.com/ribizli/ng2-imageupload#readme",
+  "homepage": "https://github.com/ncfx/ng2-imageupload#readme",
   "devDependencies": {
     "@angular/core": "^2.0.0-rc.1",
     "rimraf": "~2.5.2",
